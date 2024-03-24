@@ -1,9 +1,9 @@
-## Shortcut Link
+ ## Shortcut Link
 [Create Tasks in Project](https://www.icloud.com/shortcuts/7bd14dc5cdb14f9da649283b5b610315)
 
 ## Instructions 
 Start by creating a list in Data Jar for all of the Variables that you will be using.
-![Index](Images/Index.jpg)
+![Index](images/Index.jpg)
 Inside of this List you need to create 2 text values. The first is the list of tasks you want at Index 1. Make sure each item in this list is on a seperate line. 
 https://github.com/raunaksethi7/Things-3-Automation-/blob/9fa9ccb119a84cbc4fda20c835e6bc14c443437a/Images/Project%20Name.jpg
 The second will be the name of the project in Things that you want to add these tasks to. 
